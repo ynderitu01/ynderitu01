@@ -6,9 +6,7 @@
 ### 🖥️ Information Technology Projects  
 
 #### 🧾 ServiceNow (IT Service Management)
-- [⚙️ ServiceNow: Incident, Problem, and Change Management](https://github.com/ynderitu01/servicenow-itsm)
-- [🧠 Automating Workflows and SLA Policies](https://github.com/ynderitu01/servicenow-workflows)
-- [📚 Creating Knowledge Articles and Custom Catalog Items](https://github.com/ynderitu01/servicenow-knowledge)
+- [⚙️ How-To-Create-A-Ticket-In-Service-Now](https://github.com/ynderitu01/servicenow-itsm)
 
 
 #### ☁️ AWS Cloud
