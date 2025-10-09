@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">👩🏽‍💻 Hi, I'm <a href="https://linkedin.com/in/yvonne-nderitu-7a2513313" target="_blank">Yvonne Nderitu</a></h1>
+<h3 align="center">💡 IT Professional | Systems & Network Support | Cloud & Help Desk Projects</h3>
 
-<!--
-**ynderitu01/ynderitu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🖥️ Information Technology Projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎫 osTicket (Help Desk Ticketing System)
+- [🧩 osTicket: Prerequisites and Installation](https://github.com/ynderitu01/osticket-prereqs)
+- [⚙️ osTicket: Post-Installation Configuration](https://github.com/ynderitu01/post-install-config)
+- [📨 osTicket: Ticket Lifecycle Examples](https://github.com/ynderitu01/ticket-lifecycle)
+
+#### ☁️ Microsoft Azure
+- [🧱 Configuring On-Premises Active Directory within Azure VMs](https://github.com/ynderitu01/configure-ad)
+- [🌐 Network Security Groups (NSGs) & Inspecting Network Protocols](https://github.com/ynderitu01/azure-network-protocols)
+
+---
+
+### 🧰 Technical Skills
+**Platforms:** Microsoft Azure, Windows Server, Active Directory, IIS  
+**Tools:** osTicket, PowerShell, SQL Server, MySQL, HeidiSQL  
+**Networking:** DNS, DHCP, VPN, TCP/IP, NSG, Firewalls  
+**Soft Skills:** Troubleshooting, Documentation, End-User Support, Collaboration  
+
+---
+
+### 🤝 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/yvonne-nderitu-7a2513313" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Yvonne%20Nderitu-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ynderitu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ynderitu%40gmail.com-red?logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/ynderitu01" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ynderitu01-lightgrey?logo=github&logoColor=black" alt="GitHub Badge"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🌱 <i>Currently expanding hands-on experience in IT support, systems administration, and cloud technologies.</i>  
+</p>
+
+<p align="center">
+  ⚡ <i>“Technology empowers progress — I enjoy solving problems and building efficient systems.”</i>
+</p>
+
