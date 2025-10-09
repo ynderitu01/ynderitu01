@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Yvonne%20Nderitu-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp;
-  <a href="mailto:ynderitu@gmail.com">
+  <a href="mailto:ynderitu01@gmail.com">
     <img src="https://img.shields.io/badge/Email-ynderitu%40gmail.com-red?logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   &nbsp;
