@@ -7,8 +7,8 @@
 
 #### 🎫 osTicket (Help Desk Ticketing System)
 - [🧩 osTicket: Prerequisites and Installation](https://github.com/ynderitu01/osticket-prereqs)
-- [📨 osTicket: Post-osTicket-Installation](https://github.com/ynderitu01/Post-osTicket-Installation)
-- [⚙️ osTicket: osTicket Lab Ticket-Workflow](https://github.com/ynderitu01/osTicket-Lab-Ticket-Workflow)
+- [⚙️  osTicket: Post-osTicket-Installation](https://github.com/ynderitu01/Post-osTicket-Installation)
+- [📨 osTicket: osTicket Lab Ticket-Workflow](https://github.com/ynderitu01/osTicket-Lab-Ticket-Workflow)
 
 
 #### ☁️ Microsoft Azure
