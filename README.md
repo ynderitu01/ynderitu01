@@ -6,7 +6,7 @@
 ### 🖥️ Information Technology Projects  
 
 #### 🧾 ServiceNow (IT Service Management)
-- [⚙️ How-To-Create-A-Ticket-In-Service-Now](https://github.com/ynderitu01/servicenow-itsm)
+- [⚙️ How-To-Create-A-Ticket-In-Service-Now](https://github.com/ynderitu01/How-To-Create-A-Ticket-In-Service-Now)
 
 
 #### ☁️ AWS Cloud
