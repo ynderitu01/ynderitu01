@@ -7,8 +7,9 @@
 
 #### 🎫 osTicket (Help Desk Ticketing System)
 - [🧩 osTicket: Prerequisites and Installation](https://github.com/ynderitu01/osticket-prereqs)
+- [📨 osTicket: Post-osTicket-Installation](https://github.com/ynderitu01/Post-osTicket-Installation)
 - [⚙️ osTicket: osTicket Lab Ticket-Workflow](https://github.com/ynderitu01/osTicket-Lab-Ticket-Workflow)
-- [📨 osTicket: Ticket Lifecycle Examples](https://github.com/ynderitu01/ticket-lifecycle)
+
 
 #### ☁️ Microsoft Azure
 - [🧱 Configuring On-Premises Active Directory within Azure VMs](https://github.com/ynderitu01/configure-ad)
