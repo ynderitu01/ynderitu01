@@ -11,6 +11,12 @@
 - [📚 Creating Knowledge Articles and Custom Catalog Items](https://github.com/ynderitu01/servicenow-knowledge)
 
 
+#### ☁️ AWS Cloud
+- [🧩 Deploying and Managing Active Directory in AWS](https://github.com/ynderitu01/aws-active-directory)
+- [🔒 Configuring IAM Roles and Security Groups for Directory Access](https://github.com/ynderitu01/aws-iam-directory)
+- [📡 Testing Domain Join and Authentication on EC2 Instances](https://github.com/ynderitu01/aws-domain-authentication)
+
+
 #### 🎫 osTicket (Help Desk Ticketing System)
 - [🧩 osTicket: Prerequisites and Installation](https://github.com/ynderitu01/osticket-prereqs)
 - [⚙️  osTicket: Post-osTicket-Installation](https://github.com/ynderitu01/Post-osTicket-Installation)
