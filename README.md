@@ -11,8 +11,6 @@
 
 #### ☁️ AWS Cloud
 - [🧩 Deploying and Managing Active Directory in AWS](https://github.com/ynderitu01/aws-active-directory)
-- [🔒 Configuring IAM Roles and Security Groups for Directory Access](https://github.com/ynderitu01/aws-iam-directory)
-- [📡 Testing Domain Join and Authentication on EC2 Instances](https://github.com/ynderitu01/aws-domain-authentication)
 
 
 #### 🎫 osTicket (Help Desk Ticketing System)
@@ -21,9 +19,6 @@
 - [📨 osTicket: osTicket Lab Ticket-Workflow](https://github.com/ynderitu01/osTicket-Lab-Ticket-Workflow)
 
 
-#### ☁️ Microsoft Azure
-- [🧱 Configuring On-Premises Active Directory within Azure VMs](https://github.com/ynderitu01/configure-ad)
-- [🌐 Network Security Groups (NSGs) & Inspecting Network Protocols](https://github.com/ynderitu01/azure-network-protocols)
 
 ---
 
