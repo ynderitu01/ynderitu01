@@ -10,7 +10,7 @@
 
 
 #### ☁️ AWS Cloud
-- [🧩 Deploying and Managing Active Directory in AWS](https://github.com/ynderitu01/aws-active-directory)
+- [🧩 AWS EC2- Windows Instance Deployment](https://github.com/ynderitu01/aws-active-directory)
 
 
 #### 🎫 osTicket (Help Desk Ticketing System)
