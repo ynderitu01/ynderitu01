@@ -10,7 +10,7 @@
 
 
 #### ☁️ AWS Cloud
-- [🧩 AWS EC2- Windows Instance Deployment](https://github.com/ynderitu01/aws-active-directory)
+- [🧩 AWS EC2- Windows Instance Deployment](https://github.com/ynderitu01/AWS-EC2-Windows-Instance)
 
 
 #### 🎫 osTicket (Help Desk Ticketing System)
