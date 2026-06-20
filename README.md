@@ -1,61 +1,37 @@
-<h1 align="center">👩🏽‍💻 Hi, I'm <a href="https://linkedin.com/in/yvonne-nderitu-7a2513313" target="_blank">Yvonne Nderitu</a></h1>
-<h3 align="center">💡 IT Professional | Systems & Network Support | Cloud & Help Desk Projects</h3>
-
----
-
-### 🖥️ Information Technology Projects  
-
-#### 🧾 ServiceNow (IT Service Management)
-- [⚙️ How-To-Create-A-Ticket-In-Service-Now](https://github.com/ynderitu01/How-To-Create-A-Ticket-In-Service-Now)
-
-
-#### ☁️ AWS Cloud
-- [⚙️ AWS EC2- Windows Instance Deployment](https://github.com/ynderitu01/AWS-EC2-Windows-Instance)
-- [ ⚙️ Deploy Active Directory on Windows Server ](https://github.com/ynderitu01/Active-Directory-Deployment)
-- [ ⚙️Active Directory User Group Management ](https://github.com/ynderitu01/active-directory-user-group-management)
-  
-
-
-#### 🎫 osTicket (Help Desk Ticketing System)
-- [🧩 osTicket: Prerequisites and Installation](https://github.com/ynderitu01/osticket-prereqs)
-- [⚙️  osTicket: Post-osTicket-Installation](https://github.com/ynderitu01/Post-osTicket-Installation)
-- [📨 osTicket: osTicket Lab Ticket-Workflow](https://github.com/ynderitu01/osTicket-Lab-Ticket-Workflow)
-
-
-
----
-
-### 🧰 Technical Skills
-**Platforms:** Microsoft Azure, Windows Server, Active Directory, IIS  
-**Tools:** osTicket, PowerShell, SQL Server, MySQL, HeidiSQL  
-**Networking:** DNS, DHCP, VPN, TCP/IP, NSG, Firewalls  
-**Soft Skills:** Troubleshooting, Documentation, End-User Support, Collaboration  
-
----
-
-### 🤝 Connect With Me  
+<h1 align="center">Yvonne Nderitu</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yvonne-nderitu-7a2513313" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Yvonne%20Nderitu-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;
-  <a href="mailto:ynderitu01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ynderitu%40gmail.com-red?logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/ynderitu01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ynderitu01-lightgrey?logo=github&logoColor=black" alt="GitHub Badge"/>
-  </a>
+Healthcare IT Support Specialist | CompTIA Security+ | Active Directory | Azure | Help Desk
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/yvonne-nderitu-7a2513313">LinkedIn</a> •
+<a href="mailto:ynderitu90@gmail.com">Email</a> •
+<a href="https://github.com/ynderitu01">GitHub</a>
 </p>
 
 ---
 
-<p align="center">
-  🌱 <i>Currently expanding hands-on experience in IT support, systems administration, and cloud technologies.</i>  
-</p>
+## About Me
 
-<p align="center">
-  ⚡ <i>“Technology empowers progress — I enjoy solving problems and building efficient systems.”</i>
-</p>
+CompTIA Security+ certified IT Support professional specializing in Healthcare IT. I build and document hands-on lab environments covering Active Directory, Azure cloud infrastructure, HIPAA compliance, and clinical help desk operations.
 
+Currently pursuing a B.S. in Cloud and Network Engineering at WGU.
+
+---
+
+## Certifications
+
+- CompTIA Security+ — Active Cybersecurity Credential (2025)
+- MediClear Certified — Healthcare Background Compliance and HIPAA Regulations (2025)
+
+---
+
+## Featured Projects
+
+| Project | Skills |
+|---|---|
+| [Healthcare IAM and Active Directory Lab](https://github.com/ynderitu01/Active-Directory-Home-Lab) | Windows Server, AD DS, OUs, RBAC, Group Policy |
+| [Clinical Service Desk Simulation](https://github.com/ynderitu01/osticket-prereqs) | osTicket, Ticket Lifecycle, MFA Lockouts, EMR Incidents |
+| [AWS Active Directory Deployment](https://github.com/ynderitu01/AWS-EC2-Windows-Instance) | EC2, IAM, Active Directory, Domain Services |
+|
